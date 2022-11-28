@@ -1,2 +1,1 @@
-# background.generator
-Generates a background
+# background-generator
